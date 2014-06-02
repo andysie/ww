@@ -2,13 +2,15 @@ asdasdasd
 ssdasdasd
 asdasdadsas
 asdadadassd
-ddfsfdsfdsf
+123456789
 sdfsdfsdfsdf
-<<<<<<< HEAD
 !@#$%^&
 !@#$%^&*(
 =======
 1234567
 12345678
 1234567
->>>>>>> 46aab820b44ffcd1537b97368de9491024ea846b
+SDFGHJKL
+ZXCVBNM<
+@#$%^
+1234567
