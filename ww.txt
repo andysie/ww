@@ -1,10 +1,27 @@
 asdasdasd
+<<<<<<< HEAD
 1234567890
 122234567890
 ddfsfdsfdsf
+=======
+ssdasdasd
+asdasdadsas
+asdadadassd
+123456789
+>>>>>>> a3b8b75b45a476a650395037dcd844b6c31904ff
 sdfsdfsdfsdf
+!@#$%^&
+!@#$%^&*(
+=======
 1234567
 12345678
 1234567
+<<<<<<< HEAD
 !@#$%^&!@#$%^&!@#$%^
 !@#$%^&
+=======
+SDFGHJKL
+ZXCVBNM<
+@#$%^
+1234567
+>>>>>>> a3b8b75b45a476a650395037dcd844b6c31904ff
