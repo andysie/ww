@@ -1,12 +1,30 @@
 asdasdasd
+<<<<<<< HEAD
+1234567890
+122234567890
+ddfsfdsfdsf
+=======
 ssdasdasd
 123456789
+>>>>>>> a3b8b75b45a476a650395037dcd844b6c31904ff
 sdfsdfsdfsdf
+
+1234567
+<<<<<<< HEAD
+!@#$%^&!@#$%^&!@#$%^
 !@#$%^&
-!@#$%^&*(
 =======
+<<<<<<< HEAD
 1234567890
 234567890
 1234567890
 vvvvvvvvvvvvvvv
 vvvvvvvvvvvvvv
+=======
+SDFGHJKL
+ZXCVBNM<
+@#$%^
+1234567
+QWERTYUICVBHNDFGHJKCVBNM<
+WERTYUIOXCVBNM<CVBNM<
+>>>>>>> dcedeff6065dd2cdda225817fcaa240644c25194
